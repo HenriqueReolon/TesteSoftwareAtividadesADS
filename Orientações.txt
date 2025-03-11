@@ -1,0 +1,10 @@
+🎯 Objetivo:
+Os alunos devem testar o código fornecido (login e controle de produtos), e gerar o processo de 
+testes da forma como ele imagina ser a correta para avaliação dos procedimentos. Com base no conhecimento
+adquirido até o momento.
+
+Entregar um arquivo em formato de texto por grupo, com os procedimentos adotados.
+
+
+
+
